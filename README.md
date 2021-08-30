@@ -1,7 +1,7 @@
 # Tek58
 
 <!--
-**michaelbelete/michaelbelete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Taklemariam Alazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
