@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 <br> -->
 
 
-![Tekle's Github Stats](https://github-readme-stats.vercel.app/api?username=tek58&theme=vue-dark&show_icons=true)
+<!-- ![Tekle's Github Stats](https://github-readme-stats.vercel.app/api?username=tek58&theme=vue-dark&show_icons=true) -->
 ![Tekle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tek58&theme=vue-dark&layout=compact&show_icons=true&exclude_repos=macao)
 <br>
-![Contribution](https://activity-graph.herokuapp.com/graph?username=tek58&theme=react-dark&hide_border=true&area=true)
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=tek58&theme=react-dark&hide_border=true&area=true) -->
 <br>
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valar) -->
